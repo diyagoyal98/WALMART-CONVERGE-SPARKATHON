@@ -1,7 +1,9 @@
 # OUR TEAM :- NOBLE THINKERS
 
 Akshat Singhal :- https://github.com/Singhal-Akshat
+<br>
 Avantika Singh :- https://github.com/avantika-2001
+<br>
 Diya Goyal :- https://github.com/diyagoyal98
 
 
