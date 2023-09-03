@@ -1,5 +1,10 @@
 # OUR TEAM :- NOBLE THINKERS
 
+Akshat Singhal :- https://github.com/Singhal-Akshat
+Avantika Singh :- https://github.com/avantika-2001
+Diya Goyal :- https://github.com/diyagoyal98
+
+
 # THEME :- FUTURE OF RETAIL
 
 # OUR IDEA :- 
